@@ -1,1 +1,2 @@
-# claseGenerica-master
+# claseGenerica
+ejercicio programación
